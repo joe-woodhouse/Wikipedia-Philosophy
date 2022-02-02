@@ -11,6 +11,6 @@ I've written for clarity of code, not performance. There are a number of areas t
 
 Still to do:
 
-- Detect infinite loops. Minor work.
-- Use Wiki API calls. Major work.
-- Monte Carlo simulation: run for arbitary # of random starts and collect stats. Major work.
+- (Technical debt) Detect infinite loops. Minor work.
+- (Technical debt) Use Wiki API calls. Moderate work.
+- (New feature) Monte Carlo simulation: run for arbitary # of random starts and collect stats. Major work.
